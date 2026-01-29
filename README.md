@@ -1,25 +1,31 @@
-# Flutter / Dart
-.dart_tool/
-.packages
-.pub/
-build/
+# Weight Task 🏋️‍♀️
 
-# Android
-android/.gradle/
-android/local.properties
-android/app/debug
-android/app/profile
-android/app/release
+Flutter application for tracking weight and related tasks.
 
-# iOS
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/Flutter.framework
-ios/Flutter/App.framework
-ios/Flutter/Generated.xcconfig
-ios/Flutter/flutter_export_environment.sh
+---
 
-# IDE
-.idea/
-.vscode/
-*.iml
+## 📱 Screenshots
+
+<img src="https://github.com/haneen57/weighttask/blob/main/screenshots/Screenshot%20(49).png" width="250" />
+<img src="https://github.com/haneen57/weighttask/blob/main/screenshots/Screenshot%20(50).png" width="250" />
+
+> ملاحظة: لو اسم الـ branch عندك مش `dev` غيريه بـ `main` أو الاسم الصحيح.
+
+---
+
+## 🚀 Features
+- Track weight easily
+- Clean and simple UI
+- Built with Flutter & Dart
+
+---
+
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## 📂 Project Structure
+
